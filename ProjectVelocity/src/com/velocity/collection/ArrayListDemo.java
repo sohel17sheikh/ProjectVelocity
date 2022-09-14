@@ -11,7 +11,7 @@ public class ArrayListDemo {
 		
 		Iterator<String> itr = list.iterator();
 		while(itr.hasNext()) {
-			System.out.println(itr.next());
+			System.out.println(itr.next() );
 		}
 	}
 
