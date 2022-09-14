@@ -14,7 +14,7 @@ public class SetDemo {
 		set.add(44);
 		
 		for(Integer i : set) {
-			System.out.println(i);
+			System.out.println(i );
 		}
 	}
 
